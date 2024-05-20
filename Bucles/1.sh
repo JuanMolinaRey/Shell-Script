@@ -1,8 +1,14 @@
 #!/bin/Bash
 
-Ejercicio 1:
-Hacer un script que adivine el PID del script, 
-que nos informe en cada momento si es mayor o menor el número ingresado.
- Cuando acertemos el número el script termina informandonos los números de intentos
-
- 
+read -p "Introduce un número: " NUM
+Cont=1
+while [ $NUM -ne $$ ]; do
+    if [ $NUM -gt $$ ]; then
+         echo $NUM es Mayor que el PID
+    else
+         echo $NUM es Menor que el PID
+fi
+         read -p "Introduce un número: " NUM
+         Cont=$(($Cont+1))
+done
+echo Has necesitado $Cont intentos para adivinar el PID $$
