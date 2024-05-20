@@ -1,7 +1,5 @@
 #!/bin/Bash
 
-borrar="No valida"
-
 read -p "Agregar un nombre de archivo: " respuesta
 touch "$respuesta"
 Echo "Has creado el archivo $respuesta"
