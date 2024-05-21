@@ -16,5 +16,6 @@
 ### Ejercicio 1: Utilice 3 input para año,mes y dia, luego añadi un variable de la fecha del año actual, restandole el mio, para más tarde completarlo con un condicional donde restaba meses y dias para que me diera el año exacto 
 
 ## Bucles
-### Ejercicio 1:
-### Ejercicio 2:
+### Ejercicio 1: introduce un input para el número que me pide y que empezara a contar desde uno para añadir un bucle para que cuando se encuentre el número pare de pedirlo una vez encuentre el resultado, tambien tuve que añador una condicional dentro para el conteo y acabe con $$ que sería el PID que es lo que me piden
+
+### Ejercicio 2: Utilice un input para  que me genere una pregunta y con el mando touch me creara el archivo, luego de configurar los 3 segundos, me saldria la lista con los archivos de la carpeta donde me encuentro y ahi cree un bucle junto a varias condicionales dependiendo de la respuesta y para elegir bien el nombre y formato del archivo que quisiera borrar, sin olvidarme de añadir un break para que en el caso de no quisiera borrar un archivo, no siga preguntandomelo
