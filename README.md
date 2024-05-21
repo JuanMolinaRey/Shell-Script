@@ -1,8 +1,8 @@
 # Shell-Script
 ##Variable
-###Ejercicio 1: Hice tres variables para completar la frase
-###Ejercicio 2:
-##Parámetros
+##Ejercicio 1: Hice tres variables para completar la frase
+##Ejercicio 2:
+###Parámetros
 ###Ejercicio 1:
 ###Ejercicio 2:
 ##Condicionales
